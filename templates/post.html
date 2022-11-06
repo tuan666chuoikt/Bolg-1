@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block start %}
+
+<div class="container-fluid" style="background-color:#ebf3f3 ;">
+    <div class="row" style="padding: 30px;">
+            <h2>{{posts.title}}</h2>
+            <h5>{{posts.created_at}}</h5>
+            <p>{{posts.body}}</p>
+    </div>
+</div>
+
+{% endblock %}
