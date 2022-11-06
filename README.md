@@ -5,7 +5,7 @@ B1: Kích hoạt môi trường
 <br>
 B2: Đi đến thư mục "myproject"
 <br>
-cd .\myproject\    
+cd .\myproject\
 <br>
 B3: Chạy lệnh python manage.py runserver
 <br>
